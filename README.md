@@ -11,4 +11,4 @@ Feel free to study the codes, suggest a better code solution, or even a much bet
 
 
 <------------>
-PS: I'm new to coding, and so far I've been studying and experimenting. So this is one of my first attempts to working with CSS animation.
+PS: I'm new to coding, and so far I've been studying and experimenting. So this is one of my first attempts at working with CSS animation.
